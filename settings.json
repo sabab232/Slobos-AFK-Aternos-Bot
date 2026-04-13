@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheUnemployed-09AE.aternos.me",
+    "ip": "TheUnemployed-09AE.aternos.me:31224",
     "port": 31224,
     "version": "1.21.10",
     "try-creative": false
